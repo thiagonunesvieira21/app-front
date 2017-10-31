@@ -1,3 +1,29 @@
+App Frontend
+
+==Instalando Node.js==
+
+Windows:
+	http://blog.teamtreehouse.com/install-node-js-npm-windows
+
+Mac:
+	http://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/
+
+==Instalando Java e Android SDK==
+
+Windows:
+	https://ionicframework.com/docs/developer-resources/platform-setup/windows-setup.html
+
+Mac:
+	https://ionicframework.com/docs/developer-resources/platform-setup/mac-setup.html
+
+
+==Instalando Ionic==
+
+	npm install -g ionic cordova
+
+
+Informations:
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -23,4 +49,3 @@ $ ionic cordova run ios
 ```
 
 Substitute ios for android if not on a Mac.
-

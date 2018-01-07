@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-		<item value="/home/thiago/Desenvolvimento/workspace/app-front"/>
-	</list>
-	<section name="com.genuitec.eclipse.modernweb.angular2.ui.project.ImportAngularProjectRootArea">
-		<item value="/home/thiago/Desenvolvimento/workspace/app-back" key="OUTSIDE_LOCATION"/>
-	</section>
-</section>
